@@ -21,11 +21,11 @@ The repository contains the following files:
 2.	ProductManager.java
 3.	products.txt: The text file used to store the product information. Each line represents a product and includes the name, price, and quantity separated by spaces.
 
-Contributing
+Contributing:
 If you would like to contribute to this project, feel free to fork the repository and submit a pull request with your changes. Contributions such as bug fixes, additional features, or code improvements are highly appreciated.
 
-Acknowledgments
-This project was developed as a part of the first semester curriculum. Special thanks to the professors and teaching assistants for their guidance and support.
+Acknowledgment:
+This project was developed as a part of the Second semester curriculum. Special thanks to the Professor for guidance and support.
 
 This project serves as a practical demonstration of core programming concepts and file handling techniques, making it suitable for academic purposes or as a starting point for building more complex shop management systems.
 
